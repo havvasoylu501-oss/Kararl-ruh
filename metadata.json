@@ -1,0 +1,6 @@
+{
+  "name": "Kararlı Ruh",
+  "description": "Undertale tarzında piksel sanatlı yeraltı RPG oyunu: keşfet, bağışla veya savaş, kurşun yağmurundan kaç.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
